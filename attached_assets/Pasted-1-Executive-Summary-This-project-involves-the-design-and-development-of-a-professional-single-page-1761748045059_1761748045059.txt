@@ -1,0 +1,85 @@
+1. Executive Summary
+This project involves the design and development of a professional, single-page business website for Kaizen HR Consultants. The primary goal is to establish a strong digital presence that clearly communicates the firm's brand, services, and values. The website will serve as a digital brochure and a primary lead-generation tool, designed to be modern, trustworthy, and user-friendly, with a strong emphasis on unique, custom illustrations.
+
+2. Project Objectives
+Establish Brand Credibility: Showcase Kaizen HR Consultants as an expert and reliable HR solutions provider.
+
+Generate Leads: Enable potential clients to make inquiries easily through a prominent contact form and clear contact information.
+
+Communicate Offerings: Clearly present the 10 core HR services in a structured and easily digestible format.
+
+Build Trust: Reinforce professionalism and transparency through dedicated "Vision & Mission" and "Terms & Conditions" sections.
+
+Enhance Engagement: Utilize custom illustrations to create a unique, engaging, and memorable brand experience, avoiding generic stock imagery.
+
+Ensure Accessibility: Deliver a fully responsive, mobile-friendly website that provides a seamless experience on all devices.
+
+Create an SEO Foundation: Build a lightweight, fast-loading site with clean code to support future search engine optimization efforts.
+
+3. Target Audience
+Primary: Small, medium, and large businesses seeking outsourced HR support, recruitment, or staffing partnerships.
+
+Secondary: Startups needing to establish HR processes and corporate HR departments looking for specialized services like executive search.
+
+Tertiary: Job seekers looking for reputable HR consultancies to partner with.
+
+4. Scope of Work & Key Deliverables
+The project is for a single-page static website. The key deliverables include:
+
+Header & Navigation: Sticky header with logo, brand name, and smooth-scrolling navigation links (Services, About, Terms, Contact).
+
+Hero Section: A full-width banner with the main tagline ("Connecting talent with opportunity — for measurable growth") and two primary call-to-action buttons ("Get in Touch," "Our Services"). This section will feature a custom illustration that visually represents "connecting talent with opportunity."
+
+Vision & Mission Section: A dedicated area to communicate the firm's core philosophy and values, potentially accompanied by subtle illustrative elements that align with transformation and growth.
+
+Services Section: A grid-based layout detailing 10 core HR services. Each service description will be complemented by a small, bespoke icon or illustration that visually represents the service.
+
+Terms & Conditions Section: A concise display of business policies, keeping a clean, text-focused design.
+
+Contact Section: An integrated web form (Name, Email, Phone, Message) alongside the company's address, email, phone, and business hours. This section could include a small, friendly illustration related to communication or partnership.
+
+Footer: Standard footer with copyright notice and business location.
+
+Illustrations Guidelines:
+
+Style: Clean, modern, friendly, and professional. Vector-based for scalability.
+
+Color Palette: Complementary to the website's indigo, cyan, and gray scheme.
+
+Content: Abstract or metaphorical representations of HR concepts (e.g., connection, growth, partnership, efficiency, compliance) rather than literal depictions of people or offices.
+
+Quantity: Approximately 1-2 main illustrations for key sections (Hero, possibly About/Contact) and 10 small icon-style illustrations for the Services section.
+
+Out of Scope for Initial Launch:
+
+Backend integration for the contact form (e.g., Formspree, SMTP).
+
+Additional pages (e.g., Blog, Careers, Case Studies).
+
+CMS integration.
+
+Advanced SEO implementation (e.g., keyword strategy, backlinking).
+
+5. Technical Specifications
+Framework: Pure HTML and Tailwind CSS (via CDN). No build tools or JavaScript frameworks are required.
+
+Design: Modern, minimalistic, and professional.
+
+Color Palette: Indigo, cyan, and soft grays.
+
+Typography: Clean, readable sans-serif font (e.g., Inter).
+
+Visuals: Custom illustrations (as described above) will replace all stock photography.
+
+Hosting: The final code must be compatible with any static hosting provider (e.g., Netlify, Vercel, Hostinger, GoDaddy).
+
+Performance: The site must be lightweight, fast-loading, and fully responsive, ensuring illustrations are optimized for web use.
+
+6. Timeline (Estimated)
+Week 1: Finalize wireframe, design mockup, and illustration style guide/concepts.
+
+Week 2: Develop the HTML structure and apply Tailwind CSS. Begin creation of key illustrations.
+
+Week 3: Integrate illustrations, responsive testing across devices, content review, and final revisions.
+
+End of Week 3: Final delivery of index.html file and deployment support.
